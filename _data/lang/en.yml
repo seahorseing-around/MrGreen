@@ -169,7 +169,7 @@ privacy-policy:
 constants:
   greetings: Hello
   welcome: Welcome
-  sample: Moomaa
+  sample: Sample
 
 # for cookie consent
 cookie_consent:
