@@ -3,15 +3,15 @@
 ###########################################################
 # if you want to force HTTPS, specify the domain without the http at the start
 # set domain: "your_github_user_name.github.io"
-domain: ""
+domain: "mrgreen.westsidescouts-test.click"
 
 # your web site url
 # for GitHub Pages, url: "https://your_github_user_name.github.io"
-url: ""
+url: "https://mrgreen.westsidescouts-test.click"
 
 # path to this site
 # if your page is located at https://your_github_user_name.github.io/blog, then set baseurl: "/blog"
-baseurl: ""
+baseurl: "https://mrgreen.westsidescouts-test.click"
 
 # please use TZ database name column on the list table
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -30,13 +30,13 @@ defaults:
       permalink: /posts/:path
 
   # for multilingual posts
-  - scope:
-      # to separate language posts folders
-      path: "*/_posts"
-    values:
-      hidden: true
-      layout: "post"
-      permalink: /:path
+  # - scope:
+  #     # to separate language posts folders
+  #     path: "*/_posts"
+  #   values:
+  #     hidden: true
+  #     layout: "post"
+  #     permalink: /:path
 
   # example: enable setting for all pages. You may still need to enable some setting from _data/conf/posts.yml or _data/conf/main.yml
   # - scope:
