@@ -98,9 +98,9 @@ post:
     tooltip:
       # keys need to match with _data/share.yml
       twitter: Twitter
-      facebook: Facebook
-      telegram: Telegram
-      linkedin: LinkedIn
+      #facebook: Facebook
+      #telegram: Telegram
+      #linkedin: LinkedIn
       email: Email
       copy_link: Copy link
 
