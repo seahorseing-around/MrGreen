@@ -13,22 +13,19 @@ github:
   url: "https://github.com"
 email:
   icon: "fa fa-envelope-o"
-  url: ""
-linkedin:
-  icon: "fa fa-linkedin"
-  url: "https://www.linkedin.com/in"
+  url: "gsl@westsidescouts.org"
 twitter:
   icon: "fa fa-twitter"
-  url: "https://twitter.com"
+  url: "https://twitter.com/westsidescouts"
 instagram:
   icon: "fa fa-instagram"
-  url: "https://www.instagram.com"
-youtube:
-  icon: "fa fa-youtube-play"
-  url: "https://www.youtube.com/channel"
-facebook:
-  icon: "fa fa-facebook"
-  url: "https://www.facebook.com"
+  url: "https://www.instagram.com/westsidescoutssw12"
+#youtube:
+#  icon: "fa fa-youtube-play"
+#  url: "https://www.youtube.com/channel"
+#facebook:
+#  icon: "fa fa-facebook"
+#  url: "https://www.facebook.com"
 # add your new contact
 # your_new_contact:
 #   icon: "fa fa-font"

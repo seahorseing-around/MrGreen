@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "12/14th Westside Scout Group"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "12/14th WSG"
 
 # home page top header texts
 home:
@@ -42,17 +42,17 @@ creative_commons:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: "Your meta description."
+meta_common_description: "We're an adventurous Scout Group from South London. Based in Balham we've been going strong for over 100 years!"
 
 # contact options (side nav bottom and about page)
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
   #- github: ""
-  #- email: ""
+  - email: "gsl@westsidescouts.org"
   #- linkedin: ""
-  #- twitter: ""
-  #- instagram: ""
+  - twitter: "https://twitter.com/westsidescouts"
+  - instagram: "https://instagram.com/westsidescoutssw12"
   #- youtube: ""
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
