@@ -259,7 +259,7 @@ meta:
   add_meta_date: false
   # please note that google does not use keywords, but other search engines may.
   keywords: true
-  google_site_verify: false
+  google_site_verify: true
   twitter_card: true
   open_graph: true
   open_graph_locale: true
@@ -267,13 +267,13 @@ meta:
   # use base url with languages suffixes.
   schema_markup_base_url_with_lang: true
   # organization, person, "" (set to "" to disable) (this will be only added to index.html)
-  schema_markup_thing: "person"
+  schema_markup_thing: "organization"
   # organization, person "" (set to "" to disable)
-  schema_markup_publisher: "person"
+  schema_markup_publisher: "organization"
   # organization, person "" (set to "" to disable)
-  schema_post_author: "person"
+  schema_post_author: "organization"
   # organization, person, "" (set to "" to disable)
-  schema_markup_copyright_holder: "person"
+  schema_markup_copyright_holder: "organization"
   # true: add SearchAction to ld+json  (make sure search_with_uri is enabled)
   # false: add nositelinkssearchbox to meta header
   # commented: neither

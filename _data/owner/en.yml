@@ -5,7 +5,7 @@
 brand: "12/14th Westside Scout Group"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "Skills For Life"
 
 # used for seo meta post author (if it's not defined in post)
 name: "12/14th WSG"
@@ -51,8 +51,8 @@ contacts:
   #- github: ""
   - email: "gsl@westsidescouts.org"
   #- linkedin: ""
-  - twitter: "https://twitter.com/westsidescouts"
-  - instagram: "https://instagram.com/westsidescoutssw12"
+  - twitter: "WestsideScouts"
+  - instagram: "WestsideScoutsSW12"
   #- youtube: ""
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
